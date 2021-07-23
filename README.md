@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khare-shaunak98
-- 👀 I’m interested in ...Embedded system designing
-- 🌱 I’m currently learning ... C programming and linux os
+- 👀 I’m interested in ...Machine Learning and Deep learning
+- 🌱 I’m currently learning ... Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
